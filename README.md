@@ -1,6 +1,6 @@
 # python2-install
 
-Down this script
+Download this script
 
 chmod +x python2.sh
 
